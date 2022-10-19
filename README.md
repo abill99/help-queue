@@ -1,3 +1,27 @@
+
+#### By **Angela Billingsley**
+
+#### A Help Queue Demonstration site
+
+## Technologies Used 
+
+* react
+* html
+* css
+* markup
+* js
+* webpack
+* lint
+* npm
+* jquery
+* bootstrap
+* jest
+* babel
+
+## Description
+
+An Example Help Queue to learn react along with the latest development tools
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
